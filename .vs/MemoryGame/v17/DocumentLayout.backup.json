@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProjectProgramLang\\MemoryGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\src\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\MemoryGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\MemoryGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\MainGame.cpp",
+              "RelativeDocumentMoniker": "MemoryGame\\src\\MainGame.cpp",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\MainGame.cpp",
+              "RelativeToolTip": "MemoryGame\\src\\MainGame.cpp",
+              "ViewState": "AgIAABkBAAAAAAAAAAAuwCIBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T00:36:52.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoryGame.cpp",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\MemoryGame.cpp",
+              "RelativeDocumentMoniker": "MemoryGame\\MemoryGame.cpp",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\MemoryGame.cpp",
+              "RelativeToolTip": "MemoryGame\\MemoryGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T00:35:52.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
