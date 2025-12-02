@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>"E:\ProjectProgramLang\MemoryGame\MemoryGame\headers";%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)headers;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -128,8 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MemoryGame.cpp" />
     <ClCompile Include="src\Card.cpp" />
+    <ClCompile Include="src\GameSetup.cpp" />
     <ClCompile Include="src\MainGame.cpp" />
     <ClCompile Include="src\Scoring.cpp" />
   </ItemGroup>

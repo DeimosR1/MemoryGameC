@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "E:\\ProjectProgramLang\\MemoryGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\GameSetup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\src\\GameSetup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\src\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\MemoryGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\MemoryGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\PROJECTPROGRAMLANG\\MEMORYGAME\\MEMORYGAME\\HEADERS\\GAMESETUP.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MEMORYGAME\\HEADERS\\GAMESETUP.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\src\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\Scoring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\src\\Scoring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\headers\\Scoring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\headers\\Scoring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\headers\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E15E5D1F-D376-42DE-ABA5-FB016E7549C3}|MemoryGame\\MemoryGame.vcxproj|solutionrelative:MemoryGame\\headers\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameSetup.h",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\headers\\GameSetup.h",
+              "RelativeDocumentMoniker": "MemoryGame\\headers\\GameSetup.h",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\headers\\GameSetup.h",
+              "RelativeToolTip": "MemoryGame\\headers\\GameSetup.h",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-01T02:30:04.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainGame.cpp",
-              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\MainGame.cpp",
-              "RelativeDocumentMoniker": "MemoryGame\\src\\MainGame.cpp",
-              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\MainGame.cpp",
-              "RelativeToolTip": "MemoryGame\\src\\MainGame.cpp",
-              "ViewState": "AgIAABkBAAAAAAAAAAAuwCIBAAAjAAAAAAAAAA==",
+              "Title": "GameSetup.cpp",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\GameSetup.cpp",
+              "RelativeDocumentMoniker": "MemoryGame\\src\\GameSetup.cpp",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\GameSetup.cpp",
+              "RelativeToolTip": "MemoryGame\\src\\GameSetup.cpp",
+              "ViewState": "AgIAADcBAAAAAAAAAAAiwEABAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T00:36:52.789Z",
+              "WhenOpened": "2025-11-28T20:09:59.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MemoryGame.cpp",
-              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\MemoryGame.cpp",
-              "RelativeDocumentMoniker": "MemoryGame\\MemoryGame.cpp",
-              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\MemoryGame.cpp",
-              "RelativeToolTip": "MemoryGame\\MemoryGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\MainGame.cpp",
+              "RelativeDocumentMoniker": "MemoryGame\\src\\MainGame.cpp",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\MainGame.cpp",
+              "RelativeToolTip": "MemoryGame\\src\\MainGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T00:35:52.937Z"
+              "WhenOpened": "2025-11-28T19:44:27.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cpp",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\Card.cpp",
+              "RelativeDocumentMoniker": "MemoryGame\\src\\Card.cpp",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\Card.cpp",
+              "RelativeToolTip": "MemoryGame\\src\\Card.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T19:42:49.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scoring.cpp",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\Scoring.cpp",
+              "RelativeDocumentMoniker": "MemoryGame\\src\\Scoring.cpp",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\src\\Scoring.cpp",
+              "RelativeToolTip": "MemoryGame\\src\\Scoring.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T19:42:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scoring.h",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\headers\\Scoring.h",
+              "RelativeDocumentMoniker": "MemoryGame\\headers\\Scoring.h",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\headers\\Scoring.h",
+              "RelativeToolTip": "MemoryGame\\headers\\Scoring.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-28T19:42:43.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.h",
+              "DocumentMoniker": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\headers\\Card.h",
+              "RelativeDocumentMoniker": "MemoryGame\\headers\\Card.h",
+              "ToolTip": "E:\\ProjectProgramLang\\MemoryGame\\MemoryGame\\headers\\Card.h",
+              "RelativeToolTip": "MemoryGame\\headers\\Card.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-28T19:42:41.583Z",
+              "EditorCaption": ""
             }
           ]
         }

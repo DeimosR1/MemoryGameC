@@ -1,3 +1,2 @@
-﻿  MainGame.cpp
-E:\ProjectProgramLang\MemoryGame\MemoryGame\src\MainGame.cpp(287,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+﻿  LINK : no se encontró E:\ProjectProgramLang\MemoryGame\x64\Debug\MemoryGame.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
   MemoryGame.vcxproj -> E:\ProjectProgramLang\MemoryGame\x64\Debug\MemoryGame.exe

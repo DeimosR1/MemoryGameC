@@ -1,9 +1,10 @@
 #pragma once
 class Card
 {
+	//setting up card values.
 	public:
-		char backCard = '|';
-		char frontCard = '~';
+		char backCard = '#';
+		char frontCard = '|';
 		bool totalFound = false;
 		bool hasBeenFlipped = false;
 		int cardsInRowNum = 0;

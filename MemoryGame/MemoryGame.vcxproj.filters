@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MemoryGame.cpp">
+    <ClCompile Include="src\Card.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="src\Card.cpp">
+    <ClCompile Include="src\Scoring.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="src\MainGame.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="src\Scoring.cpp">
+    <ClCompile Include="src\GameSetup.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
